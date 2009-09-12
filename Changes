@@ -1,0 +1,9 @@
+Revision history for Perl extension Bot::BasicBot::Pluggable::Module::NorskEngelsk.
+
+0.02  Tue Jul 14 21:27:00 2009
+	- Added undeclared dependencies in Makefile.PL.
+
+0.01  Sat Jun 20 17:10:01 2009
+	- original version; created by h2xs 1.23 with options
+		-A -X -n Bot::BasicBot::Pluggable::Module::NorskEngelsk
+

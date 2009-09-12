@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Bot-BasicBot-Pluggable-Module-NorskEngelsk.t
+lib/Bot/BasicBot/Pluggable/Module/NorskEngelsk.pm
+examples/blaah

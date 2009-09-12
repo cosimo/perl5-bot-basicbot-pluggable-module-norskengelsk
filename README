@@ -1,0 +1,41 @@
+Bot-BasicBot-Pluggable-Module-NorskEngelsk version 0.02
+=======================================================
+
+DESCRIPTION
+
+An IRC bot plugin that listens to all is said in a channel,
+and when it hears someone speak Norwegian, tries to translate
+that to English, using the Google Translate webservice.
+
+It's been very useful for me. I hope it will be for you as well.
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+This module requires these other modules and libraries:
+
+   Bot::BasicBot::Pluggable
+   CGI
+   HTML::Entities
+   LWP::Simple
+   LWP::UserAgent
+   Test::More
+   WebService::Google::Language
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2009 by Cosimo Streppone, cosimo@cpan.org
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself, either Perl version 5.10.0 or,
+at your option, any later version of Perl 5 you may have available.
+
+
